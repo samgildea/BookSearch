@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="53px" viewBox="0 0 58 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <g id="Page-1" stroke="none" stroke-width="1">
+        <g id="noun_dark-mode_2084636" fill-rule="nonzero">
+            <path d="M38.06,16 C37.6502593,15.8623487 37.1984551,16.0035375 36.94,16.35 C35.9601417,17.6895769 34.3996951,18.4809463 32.74,18.48 C29.8427875,18.4744972 27.4955028,16.1272125 27.49,13.23 C27.4890537,11.5703049 28.2804231,10.0098583 29.62,9.03 C29.9647539,8.78383065 30.1169928,8.34714525 30,7.94 C29.8606053,7.51066151 29.4508611,7.22793798 29,7.25 C23.6152237,7.25 19.25,11.6152237 19.25,17 C19.25,22.3847763 23.6152237,26.75 29,26.75 C34.3847763,26.75 38.75,22.3847763 38.75,17 C38.772062,16.5491389 38.4893385,16.1393947 38.06,16 Z M29,24.75 C25.2263055,24.7431134 22.0061505,22.0191125 21.3737433,18.2987794 C20.741336,14.5784463 22.8805418,10.9434251 26.44,9.69 C25.8212534,10.7742565 25.4971742,12.0016204 25.5,13.25 C25.5055083,17.2517806 28.7482194,20.4944917 32.75,20.5 C34.0018275,20.505044 35.2329803,20.1808749 36.32,19.56 C35.2289812,22.6683721 32.2942826,24.7491215 29,24.75 Z" id="Shape"></path>
+            <path d="M57,0 L1,0 C0.44771525,0 0,0.44771525 0,1 L0,43 C0,43.5522847 0.44771525,44 1,44 L23,44 L23,51 L15.5,51 L15.5,53 L42.5,53 L42.5,51 L35,51 L35,44 L57,44 C57.5522847,44 58,43.5522847 58,43 L58,1 C58,0.44771525 57.5522847,0 57,0 Z M2,2 L56,2 L56,31 L2,31 L2,2 Z M33,51 L25,51 L25,44 L33,44 L33,51 Z M56,42 L2,42 L2,33 L56,33 L56,42 Z" id="Shape"></path>
+            <circle id="Oval" cx="29" cy="37" r="2"></circle>
+            <rect id="Rectangle" x="43" y="26" width="2" height="2"></rect>
+            <rect id="Rectangle" x="47" y="26" width="2" height="2"></rect>
+            <rect id="Rectangle" x="39" y="26" width="2" height="2"></rect>
+            <rect id="Rectangle" x="51" y="26" width="2" height="2"></rect>
+            <rect id="Rectangle" x="51" y="6" width="2" height="2"></rect>
+            <rect id="Rectangle" x="51" y="10" width="2" height="2"></rect>
+            <rect id="Rectangle" x="51" y="14" width="2" height="2"></rect>
+            <rect id="Rectangle" x="51" y="18" width="2" height="2"></rect>
+            <rect id="Rectangle" x="5" y="17" width="2" height="2"></rect>
+            <rect id="Rectangle" x="5" y="21" width="2" height="2"></rect>
+            <rect id="Rectangle" x="5" y="13" width="2" height="2"></rect>
+            <rect id="Rectangle" x="5" y="25" width="2" height="2"></rect>
+            <rect id="Rectangle" x="47" y="22" width="2" height="2"></rect>
+            <rect id="Rectangle" x="51" y="22" width="2" height="2"></rect>
+            <rect id="Rectangle" x="5" y="5" width="2" height="2"></rect>
+            <rect id="Rectangle" x="13" y="5" width="2" height="2"></rect>
+            <rect id="Rectangle" x="9" y="5" width="2" height="2"></rect>
+            <rect id="Rectangle" x="17" y="5" width="2" height="2"></rect>
+            <rect id="Rectangle" x="5" y="9" width="2" height="2"></rect>
+            <rect id="Rectangle" x="9" y="9" width="2" height="2"></rect>
+        </g>
+    </g>
+</svg>
